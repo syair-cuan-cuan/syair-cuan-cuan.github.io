@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-cuan-cuan.github.io/sitemap.xml
